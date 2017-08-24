@@ -1,0 +1,10 @@
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\bin\Debug\netcoreapp1.1\DemoAPP.deps.json
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\bin\Debug\netcoreapp1.1\DemoAPP.runtimeconfig.json
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\bin\Debug\netcoreapp1.1\DemoAPP.runtimeconfig.dev.json
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\bin\Debug\netcoreapp1.1\DemoAPP.dll
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\bin\Debug\netcoreapp1.1\DemoAPP.pdb
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\obj\Debug\netcoreapp1.1\DemoAPP.csprojResolveAssemblyReference.cache
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\obj\Debug\netcoreapp1.1\DemoAPP.csproj.CoreCompileInputs.cache
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\obj\Debug\netcoreapp1.1\DemoAPP.AssemblyInfo.cs
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\obj\Debug\netcoreapp1.1\DemoAPP.dll
+C:\Users\caden\Source\Repos\DemoAPP\DemoAPP\obj\Debug\netcoreapp1.1\DemoAPP.pdb
