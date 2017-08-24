@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore:1.1
+FROM harbor-bj.devopshub.cn/microsoft/aspnetcore:1.1
 ARG source
 WORKDIR /app
 EXPOSE 80
